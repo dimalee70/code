@@ -1,0 +1,10 @@
+/home/dmitriy/code/Project/bin/Debug/netcoreapp2.0/Project.deps.json
+/home/dmitriy/code/Project/bin/Debug/netcoreapp2.0/Project.runtimeconfig.json
+/home/dmitriy/code/Project/bin/Debug/netcoreapp2.0/Project.runtimeconfig.dev.json
+/home/dmitriy/code/Project/bin/Debug/netcoreapp2.0/Project.dll
+/home/dmitriy/code/Project/bin/Debug/netcoreapp2.0/Project.pdb
+/home/dmitriy/code/Project/obj/Debug/netcoreapp2.0/Project.csproj.CoreCompileInputs.cache
+/home/dmitriy/code/Project/obj/Debug/netcoreapp2.0/Project.AssemblyInfoInputs.cache
+/home/dmitriy/code/Project/obj/Debug/netcoreapp2.0/Project.AssemblyInfo.cs
+/home/dmitriy/code/Project/obj/Debug/netcoreapp2.0/Project.dll
+/home/dmitriy/code/Project/obj/Debug/netcoreapp2.0/Project.pdb

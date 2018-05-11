@@ -1,0 +1,10 @@
+/home/dmitriy/code/c#/lesson10/bin/Debug/netcoreapp2.0/lesson10.deps.json
+/home/dmitriy/code/c#/lesson10/bin/Debug/netcoreapp2.0/lesson10.runtimeconfig.json
+/home/dmitriy/code/c#/lesson10/bin/Debug/netcoreapp2.0/lesson10.runtimeconfig.dev.json
+/home/dmitriy/code/c#/lesson10/bin/Debug/netcoreapp2.0/lesson10.dll
+/home/dmitriy/code/c#/lesson10/bin/Debug/netcoreapp2.0/lesson10.pdb
+/home/dmitriy/code/c#/lesson10/obj/Debug/netcoreapp2.0/lesson10.csproj.CoreCompileInputs.cache
+/home/dmitriy/code/c#/lesson10/obj/Debug/netcoreapp2.0/lesson10.AssemblyInfoInputs.cache
+/home/dmitriy/code/c#/lesson10/obj/Debug/netcoreapp2.0/lesson10.AssemblyInfo.cs
+/home/dmitriy/code/c#/lesson10/obj/Debug/netcoreapp2.0/lesson10.dll
+/home/dmitriy/code/c#/lesson10/obj/Debug/netcoreapp2.0/lesson10.pdb

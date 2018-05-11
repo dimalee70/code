@@ -1,0 +1,2 @@
+minimum by column: 1 -2 3 -1 
+minimum by row: -2 2 -1 
