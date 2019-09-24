@@ -1,0 +1,11 @@
+/Users/dmitriy/code/c#/group4/arrays/bin/Debug/netcoreapp2.0/arrays.deps.json
+/Users/dmitriy/code/c#/group4/arrays/bin/Debug/netcoreapp2.0/arrays.runtimeconfig.json
+/Users/dmitriy/code/c#/group4/arrays/bin/Debug/netcoreapp2.0/arrays.runtimeconfig.dev.json
+/Users/dmitriy/code/c#/group4/arrays/bin/Debug/netcoreapp2.0/arrays.dll
+/Users/dmitriy/code/c#/group4/arrays/bin/Debug/netcoreapp2.0/arrays.pdb
+/Users/dmitriy/code/c#/group4/arrays/obj/Debug/netcoreapp2.0/arrays.csprojAssemblyReference.cache
+/Users/dmitriy/code/c#/group4/arrays/obj/Debug/netcoreapp2.0/arrays.csproj.CoreCompileInputs.cache
+/Users/dmitriy/code/c#/group4/arrays/obj/Debug/netcoreapp2.0/arrays.AssemblyInfoInputs.cache
+/Users/dmitriy/code/c#/group4/arrays/obj/Debug/netcoreapp2.0/arrays.AssemblyInfo.cs
+/Users/dmitriy/code/c#/group4/arrays/obj/Debug/netcoreapp2.0/arrays.dll
+/Users/dmitriy/code/c#/group4/arrays/obj/Debug/netcoreapp2.0/arrays.pdb

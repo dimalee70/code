@@ -1,0 +1,11 @@
+/Users/dmitriy/code/c#/group4/classArrays/bin/Debug/netcoreapp2.0/classArrays.deps.json
+/Users/dmitriy/code/c#/group4/classArrays/bin/Debug/netcoreapp2.0/classArrays.runtimeconfig.json
+/Users/dmitriy/code/c#/group4/classArrays/bin/Debug/netcoreapp2.0/classArrays.runtimeconfig.dev.json
+/Users/dmitriy/code/c#/group4/classArrays/bin/Debug/netcoreapp2.0/classArrays.dll
+/Users/dmitriy/code/c#/group4/classArrays/bin/Debug/netcoreapp2.0/classArrays.pdb
+/Users/dmitriy/code/c#/group4/classArrays/obj/Debug/netcoreapp2.0/classArrays.csprojAssemblyReference.cache
+/Users/dmitriy/code/c#/group4/classArrays/obj/Debug/netcoreapp2.0/classArrays.csproj.CoreCompileInputs.cache
+/Users/dmitriy/code/c#/group4/classArrays/obj/Debug/netcoreapp2.0/classArrays.AssemblyInfoInputs.cache
+/Users/dmitriy/code/c#/group4/classArrays/obj/Debug/netcoreapp2.0/classArrays.AssemblyInfo.cs
+/Users/dmitriy/code/c#/group4/classArrays/obj/Debug/netcoreapp2.0/classArrays.dll
+/Users/dmitriy/code/c#/group4/classArrays/obj/Debug/netcoreapp2.0/classArrays.pdb

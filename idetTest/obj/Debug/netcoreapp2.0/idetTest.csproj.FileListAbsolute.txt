@@ -1,0 +1,11 @@
+/Users/dmitriy/code/idetTest/bin/Debug/netcoreapp2.0/idetTest.deps.json
+/Users/dmitriy/code/idetTest/bin/Debug/netcoreapp2.0/idetTest.runtimeconfig.json
+/Users/dmitriy/code/idetTest/bin/Debug/netcoreapp2.0/idetTest.runtimeconfig.dev.json
+/Users/dmitriy/code/idetTest/bin/Debug/netcoreapp2.0/idetTest.dll
+/Users/dmitriy/code/idetTest/bin/Debug/netcoreapp2.0/idetTest.pdb
+/Users/dmitriy/code/idetTest/obj/Debug/netcoreapp2.0/idetTest.csprojAssemblyReference.cache
+/Users/dmitriy/code/idetTest/obj/Debug/netcoreapp2.0/idetTest.csproj.CoreCompileInputs.cache
+/Users/dmitriy/code/idetTest/obj/Debug/netcoreapp2.0/idetTest.AssemblyInfoInputs.cache
+/Users/dmitriy/code/idetTest/obj/Debug/netcoreapp2.0/idetTest.AssemblyInfo.cs
+/Users/dmitriy/code/idetTest/obj/Debug/netcoreapp2.0/idetTest.dll
+/Users/dmitriy/code/idetTest/obj/Debug/netcoreapp2.0/idetTest.pdb

@@ -1,0 +1,11 @@
+/Users/dmitriy/code/c#/group4/lesson2_5/bin/Debug/netcoreapp2.1/lesson2_5.deps.json
+/Users/dmitriy/code/c#/group4/lesson2_5/bin/Debug/netcoreapp2.1/lesson2_5.runtimeconfig.json
+/Users/dmitriy/code/c#/group4/lesson2_5/bin/Debug/netcoreapp2.1/lesson2_5.runtimeconfig.dev.json
+/Users/dmitriy/code/c#/group4/lesson2_5/bin/Debug/netcoreapp2.1/lesson2_5.dll
+/Users/dmitriy/code/c#/group4/lesson2_5/bin/Debug/netcoreapp2.1/lesson2_5.pdb
+/Users/dmitriy/code/c#/group4/lesson2_5/obj/Debug/netcoreapp2.1/lesson2_5.csprojAssemblyReference.cache
+/Users/dmitriy/code/c#/group4/lesson2_5/obj/Debug/netcoreapp2.1/lesson2_5.csproj.CoreCompileInputs.cache
+/Users/dmitriy/code/c#/group4/lesson2_5/obj/Debug/netcoreapp2.1/lesson2_5.AssemblyInfoInputs.cache
+/Users/dmitriy/code/c#/group4/lesson2_5/obj/Debug/netcoreapp2.1/lesson2_5.AssemblyInfo.cs
+/Users/dmitriy/code/c#/group4/lesson2_5/obj/Debug/netcoreapp2.1/lesson2_5.dll
+/Users/dmitriy/code/c#/group4/lesson2_5/obj/Debug/netcoreapp2.1/lesson2_5.pdb

@@ -1,0 +1,11 @@
+/Users/dmitriy/code/c#/group3/if-else/bin/Debug/netcoreapp2.0/if-else.deps.json
+/Users/dmitriy/code/c#/group3/if-else/bin/Debug/netcoreapp2.0/if-else.runtimeconfig.json
+/Users/dmitriy/code/c#/group3/if-else/bin/Debug/netcoreapp2.0/if-else.runtimeconfig.dev.json
+/Users/dmitriy/code/c#/group3/if-else/bin/Debug/netcoreapp2.0/if-else.dll
+/Users/dmitriy/code/c#/group3/if-else/bin/Debug/netcoreapp2.0/if-else.pdb
+/Users/dmitriy/code/c#/group3/if-else/obj/Debug/netcoreapp2.0/if-else.csprojAssemblyReference.cache
+/Users/dmitriy/code/c#/group3/if-else/obj/Debug/netcoreapp2.0/if-else.csproj.CoreCompileInputs.cache
+/Users/dmitriy/code/c#/group3/if-else/obj/Debug/netcoreapp2.0/if-else.AssemblyInfoInputs.cache
+/Users/dmitriy/code/c#/group3/if-else/obj/Debug/netcoreapp2.0/if-else.AssemblyInfo.cs
+/Users/dmitriy/code/c#/group3/if-else/obj/Debug/netcoreapp2.0/if-else.dll
+/Users/dmitriy/code/c#/group3/if-else/obj/Debug/netcoreapp2.0/if-else.pdb

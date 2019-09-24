@@ -1,0 +1,11 @@
+/Users/dmitriy/code/c#/group4/methods2/bin/Debug/netcoreapp2.1/methods2.deps.json
+/Users/dmitriy/code/c#/group4/methods2/bin/Debug/netcoreapp2.1/methods2.runtimeconfig.json
+/Users/dmitriy/code/c#/group4/methods2/bin/Debug/netcoreapp2.1/methods2.runtimeconfig.dev.json
+/Users/dmitriy/code/c#/group4/methods2/bin/Debug/netcoreapp2.1/methods2.dll
+/Users/dmitriy/code/c#/group4/methods2/bin/Debug/netcoreapp2.1/methods2.pdb
+/Users/dmitriy/code/c#/group4/methods2/obj/Debug/netcoreapp2.1/methods2.csprojAssemblyReference.cache
+/Users/dmitriy/code/c#/group4/methods2/obj/Debug/netcoreapp2.1/methods2.csproj.CoreCompileInputs.cache
+/Users/dmitriy/code/c#/group4/methods2/obj/Debug/netcoreapp2.1/methods2.AssemblyInfoInputs.cache
+/Users/dmitriy/code/c#/group4/methods2/obj/Debug/netcoreapp2.1/methods2.AssemblyInfo.cs
+/Users/dmitriy/code/c#/group4/methods2/obj/Debug/netcoreapp2.1/methods2.dll
+/Users/dmitriy/code/c#/group4/methods2/obj/Debug/netcoreapp2.1/methods2.pdb

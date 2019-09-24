@@ -1,0 +1,11 @@
+/Users/dmitriy/code/c#/group3/data_type/bin/Debug/netcoreapp2.0/data_type.deps.json
+/Users/dmitriy/code/c#/group3/data_type/bin/Debug/netcoreapp2.0/data_type.runtimeconfig.json
+/Users/dmitriy/code/c#/group3/data_type/bin/Debug/netcoreapp2.0/data_type.runtimeconfig.dev.json
+/Users/dmitriy/code/c#/group3/data_type/bin/Debug/netcoreapp2.0/data_type.dll
+/Users/dmitriy/code/c#/group3/data_type/bin/Debug/netcoreapp2.0/data_type.pdb
+/Users/dmitriy/code/c#/group3/data_type/obj/Debug/netcoreapp2.0/data_type.csprojAssemblyReference.cache
+/Users/dmitriy/code/c#/group3/data_type/obj/Debug/netcoreapp2.0/data_type.csproj.CoreCompileInputs.cache
+/Users/dmitriy/code/c#/group3/data_type/obj/Debug/netcoreapp2.0/data_type.AssemblyInfoInputs.cache
+/Users/dmitriy/code/c#/group3/data_type/obj/Debug/netcoreapp2.0/data_type.AssemblyInfo.cs
+/Users/dmitriy/code/c#/group3/data_type/obj/Debug/netcoreapp2.0/data_type.dll
+/Users/dmitriy/code/c#/group3/data_type/obj/Debug/netcoreapp2.0/data_type.pdb

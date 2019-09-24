@@ -1,0 +1,11 @@
+/Users/dmitriy/code/c#/group3/operators/bin/Debug/netcoreapp2.0/operators.deps.json
+/Users/dmitriy/code/c#/group3/operators/bin/Debug/netcoreapp2.0/operators.runtimeconfig.json
+/Users/dmitriy/code/c#/group3/operators/bin/Debug/netcoreapp2.0/operators.runtimeconfig.dev.json
+/Users/dmitriy/code/c#/group3/operators/bin/Debug/netcoreapp2.0/operators.dll
+/Users/dmitriy/code/c#/group3/operators/bin/Debug/netcoreapp2.0/operators.pdb
+/Users/dmitriy/code/c#/group3/operators/obj/Debug/netcoreapp2.0/operators.csprojAssemblyReference.cache
+/Users/dmitriy/code/c#/group3/operators/obj/Debug/netcoreapp2.0/operators.csproj.CoreCompileInputs.cache
+/Users/dmitriy/code/c#/group3/operators/obj/Debug/netcoreapp2.0/operators.AssemblyInfoInputs.cache
+/Users/dmitriy/code/c#/group3/operators/obj/Debug/netcoreapp2.0/operators.AssemblyInfo.cs
+/Users/dmitriy/code/c#/group3/operators/obj/Debug/netcoreapp2.0/operators.dll
+/Users/dmitriy/code/c#/group3/operators/obj/Debug/netcoreapp2.0/operators.pdb

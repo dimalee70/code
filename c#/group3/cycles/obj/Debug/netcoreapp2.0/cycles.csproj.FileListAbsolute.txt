@@ -1,0 +1,11 @@
+/Users/dmitriy/code/c#/group3/cycles/bin/Debug/netcoreapp2.0/cycles.deps.json
+/Users/dmitriy/code/c#/group3/cycles/bin/Debug/netcoreapp2.0/cycles.runtimeconfig.json
+/Users/dmitriy/code/c#/group3/cycles/bin/Debug/netcoreapp2.0/cycles.runtimeconfig.dev.json
+/Users/dmitriy/code/c#/group3/cycles/bin/Debug/netcoreapp2.0/cycles.dll
+/Users/dmitriy/code/c#/group3/cycles/bin/Debug/netcoreapp2.0/cycles.pdb
+/Users/dmitriy/code/c#/group3/cycles/obj/Debug/netcoreapp2.0/cycles.csprojAssemblyReference.cache
+/Users/dmitriy/code/c#/group3/cycles/obj/Debug/netcoreapp2.0/cycles.csproj.CoreCompileInputs.cache
+/Users/dmitriy/code/c#/group3/cycles/obj/Debug/netcoreapp2.0/cycles.AssemblyInfoInputs.cache
+/Users/dmitriy/code/c#/group3/cycles/obj/Debug/netcoreapp2.0/cycles.AssemblyInfo.cs
+/Users/dmitriy/code/c#/group3/cycles/obj/Debug/netcoreapp2.0/cycles.dll
+/Users/dmitriy/code/c#/group3/cycles/obj/Debug/netcoreapp2.0/cycles.pdb

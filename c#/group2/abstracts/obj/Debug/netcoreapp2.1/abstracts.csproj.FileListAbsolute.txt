@@ -1,0 +1,11 @@
+/Users/dmitriy/code/c#/group2/abstracts/bin/Debug/netcoreapp2.1/abstracts.deps.json
+/Users/dmitriy/code/c#/group2/abstracts/bin/Debug/netcoreapp2.1/abstracts.runtimeconfig.json
+/Users/dmitriy/code/c#/group2/abstracts/bin/Debug/netcoreapp2.1/abstracts.runtimeconfig.dev.json
+/Users/dmitriy/code/c#/group2/abstracts/bin/Debug/netcoreapp2.1/abstracts.dll
+/Users/dmitriy/code/c#/group2/abstracts/bin/Debug/netcoreapp2.1/abstracts.pdb
+/Users/dmitriy/code/c#/group2/abstracts/obj/Debug/netcoreapp2.1/abstracts.csprojAssemblyReference.cache
+/Users/dmitriy/code/c#/group2/abstracts/obj/Debug/netcoreapp2.1/abstracts.csproj.CoreCompileInputs.cache
+/Users/dmitriy/code/c#/group2/abstracts/obj/Debug/netcoreapp2.1/abstracts.AssemblyInfoInputs.cache
+/Users/dmitriy/code/c#/group2/abstracts/obj/Debug/netcoreapp2.1/abstracts.AssemblyInfo.cs
+/Users/dmitriy/code/c#/group2/abstracts/obj/Debug/netcoreapp2.1/abstracts.dll
+/Users/dmitriy/code/c#/group2/abstracts/obj/Debug/netcoreapp2.1/abstracts.pdb

@@ -1,0 +1,51 @@
+@model ViewModel
+@using (Html.BeginForm())
+{
+    <fieldset>
+        <legend>
+            Employee
+        </legend>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.itemEmployee.name)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.itemEmployee.name)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.itemEmployee.surname)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.itemEmployee.surname)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.itemEmployee.patronymic)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.itemEmployee.patronymic)
+        </div>
+        <div>
+            @Html.RadioButtonFor(m => m.SelectedAGender, "Male") Male
+            @Html.RadioButtonFor(m => m.SelectedAGender, "Female") Female
+        </div>
+        <div>
+            Должность: @Html.DropDownListFor(model => model.selectedListPos, Model.selectListPos)
+        </div>
+        <div>
+            Подразделение: @Html.DropDownListFor(model => model. selectedListDep, Model.selectListDep)
+        </div>
+        <div>
+            Доступы:             
+            @foreach (var item in Model.selectListPer)
+            {
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox"
+                               name="selectedListPer"
+                               value="@item.Value" /> @item.Text
+                        </label>
+                    </div>
+            }
+        </div>
+        <input type="submit" value="create">
+    </fieldset>
+}

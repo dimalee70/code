@@ -1,0 +1,11 @@
+/Users/dmitriy/code/c#/group4/strings/bin/Debug/netcoreapp2.0/strings.deps.json
+/Users/dmitriy/code/c#/group4/strings/bin/Debug/netcoreapp2.0/strings.runtimeconfig.json
+/Users/dmitriy/code/c#/group4/strings/bin/Debug/netcoreapp2.0/strings.runtimeconfig.dev.json
+/Users/dmitriy/code/c#/group4/strings/bin/Debug/netcoreapp2.0/strings.dll
+/Users/dmitriy/code/c#/group4/strings/bin/Debug/netcoreapp2.0/strings.pdb
+/Users/dmitriy/code/c#/group4/strings/obj/Debug/netcoreapp2.0/strings.csprojAssemblyReference.cache
+/Users/dmitriy/code/c#/group4/strings/obj/Debug/netcoreapp2.0/strings.csproj.CoreCompileInputs.cache
+/Users/dmitriy/code/c#/group4/strings/obj/Debug/netcoreapp2.0/strings.AssemblyInfoInputs.cache
+/Users/dmitriy/code/c#/group4/strings/obj/Debug/netcoreapp2.0/strings.AssemblyInfo.cs
+/Users/dmitriy/code/c#/group4/strings/obj/Debug/netcoreapp2.0/strings.dll
+/Users/dmitriy/code/c#/group4/strings/obj/Debug/netcoreapp2.0/strings.pdb

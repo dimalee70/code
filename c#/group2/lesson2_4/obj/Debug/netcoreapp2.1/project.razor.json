@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/dmitriy/code/c#/group2/lesson2_4/lesson2_4.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

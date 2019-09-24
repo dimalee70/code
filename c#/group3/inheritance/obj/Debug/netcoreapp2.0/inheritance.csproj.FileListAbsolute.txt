@@ -1,0 +1,11 @@
+/Users/dmitriy/code/c#/group3/inheritance/bin/Debug/netcoreapp2.0/inheritance.deps.json
+/Users/dmitriy/code/c#/group3/inheritance/bin/Debug/netcoreapp2.0/inheritance.runtimeconfig.json
+/Users/dmitriy/code/c#/group3/inheritance/bin/Debug/netcoreapp2.0/inheritance.runtimeconfig.dev.json
+/Users/dmitriy/code/c#/group3/inheritance/bin/Debug/netcoreapp2.0/inheritance.dll
+/Users/dmitriy/code/c#/group3/inheritance/bin/Debug/netcoreapp2.0/inheritance.pdb
+/Users/dmitriy/code/c#/group3/inheritance/obj/Debug/netcoreapp2.0/inheritance.csprojAssemblyReference.cache
+/Users/dmitriy/code/c#/group3/inheritance/obj/Debug/netcoreapp2.0/inheritance.csproj.CoreCompileInputs.cache
+/Users/dmitriy/code/c#/group3/inheritance/obj/Debug/netcoreapp2.0/inheritance.AssemblyInfoInputs.cache
+/Users/dmitriy/code/c#/group3/inheritance/obj/Debug/netcoreapp2.0/inheritance.AssemblyInfo.cs
+/Users/dmitriy/code/c#/group3/inheritance/obj/Debug/netcoreapp2.0/inheritance.dll
+/Users/dmitriy/code/c#/group3/inheritance/obj/Debug/netcoreapp2.0/inheritance.pdb

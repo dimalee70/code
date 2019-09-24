@@ -1,0 +1,56 @@
+﻿@model IEnumerable<idetTest.Models.Department>  
+@{
+    ViewData["Title"] = "Home Page";
+}
+<p>  
+    <a asp-action="Create">Create New</a>  
+</p>
+<table class="table container">   
+    <thead>  
+        <tr>  
+            <th>  
+                @Html.DisplayNameFor(model => model.name)  
+            </th>    
+        </tr>  
+    </thead>  
+    <tbody>  
+        @foreach (var item in Model)  
+{  
+            <tr>  
+                <td >
+                    @Html.DisplayFor(modelItem => item.name)
+                    <table class="table">
+                    <thead>
+                        <tr>
+                            <th>
+                                @Html.LabelFor(modelItem => item.listEmployee,"Фамилия")  
+                            </th>
+
+                            <th>
+                                @Html.LabelFor(modelItem => item.listEmployee,"Должность")  
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            @foreach(var i in item.listEmployee)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => i.surname)
+                                    </td>
+                                    
+                                    <td>
+                                        @Html.DisplayFor(modelItem => i.position.name)
+                                    </td>
+                                </tr>
+                            }
+                        </tr>
+                    </tbody>
+                </table>
+                </td>
+                
+            </tr>  
+        }  
+    </tbody>  
+</table>  
